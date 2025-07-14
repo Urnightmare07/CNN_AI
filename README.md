@@ -1,1 +1,1 @@
-# Risshi_timepass
+# Rishi_timepass
